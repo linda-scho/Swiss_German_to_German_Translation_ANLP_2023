@@ -19,6 +19,7 @@ The folders are structured as follows:
 │   ├── 3_testing.ipynb
 │   └── 4_scores_test_statistics.ipynb
 ├── README.md
+├── Report.pdf
 └── Results
     ├── Manual_Syntax_Evaluation_Synt_TestSet.xlsx
 ```
